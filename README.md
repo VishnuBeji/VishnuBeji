@@ -1,7 +1,7 @@
 -  Hi, I’m @VishnuBeji
 -  I’m interested in theoretical deep learning and statistical learning theory
 -  Looking to collaborate on projects in exploration (Deep Learning based SLAM), and generative models.
--  You can reach me via [Email](vishnubeji@gmail.com)
+-  You can reach me via vishnubeji@gmail.com
 
 <!---
 VishnuBeji/VishnuBeji is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
